@@ -1,0 +1,8 @@
+{
+  "name": "GruhaBuddy AI Agent",
+  "description": "Intelligent Interior Design Assistant with AI recommendations, AR visualization, and automated furniture booking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
